@@ -1,0 +1,30 @@
+_repo: Thomas-der-Leutpriester-b-Erzahlung-aus-der-Reformationszeit_71619
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lenk, Margarete
+    aliases:
+    - Lenk, Margarete Klee
+    - Lenk, Marg.
+    birthdate: 1841
+    deathdate: 1917
+    gutenberg_agent_id: '54157'
+    url: http://www.gutenberg.org/2009/agents/54157
+    wikipedia: https://de.wikipedia.org/wiki/Margarete_Lenk
+description: ''
+gutenberg_issued: '2023-09-12'
+identifiers:
+  gutenberg: '71619'
+language: de
+pgterms:marc905: 20200502090824lenk
+pgterms:marc906: '1909'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aZwickau :$bJohannes Hermann, $c1909.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Thomas, der Leutpriester : $b Erzählung aus der Reformationszeit'
+url: http://www.gutenberg.org/ebooks/71619
