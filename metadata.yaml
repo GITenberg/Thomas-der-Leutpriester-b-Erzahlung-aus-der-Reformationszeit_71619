@@ -1,5 +1,8 @@
 _repo: Thomas-der-Leutpriester-b-Erzahlung-aus-der-Reformationszeit_71619
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71619-h/images/cover.jpg
 creator:
   author:
     agent_name: Lenk, Margarete
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54157
     wikipedia: https://de.wikipedia.org/wiki/Margarete_Lenk
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71619#Thomas-der-Leutpriester-b-Erzahlung-aus-der-Reformationszeit
 gutenberg_issued: '2023-09-12'
 identifiers:
   gutenberg: '71619'
